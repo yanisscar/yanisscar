@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/yanisscar/yanisscar</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/issues</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/pulls</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/actions</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/security</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/blob/main/.DS_Store</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/blob/main/admin.php</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/blob/main/bn.php</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/blob/main/car.php</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/blob/main/contact.php</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/blob/main/db_conn.php</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/blob/main/home.php</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/blob/main/index.php</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/blob/main/login.php</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/blob/main/logout.php</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/blob/main/prepros-6.config</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/blob/main/style.css</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/blob/main/travel.php</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/blob/main/vehicules.php</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/blob/main/voyages.php</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/releases</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/labels</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/milestones</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/labels?sort=name-asc</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/labels?sort=name-desc</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/labels?sort=count-desc</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/labels?sort=count-asc</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/labels/bug</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/labels/documentation</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/labels/duplicate</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/labels/enhancement</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/labels/good%20first%20issue</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/labels/help%20wanted</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/labels/invalid</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/labels/question</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/labels/wontfix</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/milestones?state=open</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/milestones?state=closed</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yanisscar/yanisscar/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-06-09T20:51:33+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
